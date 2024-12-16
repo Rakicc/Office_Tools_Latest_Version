@@ -1,0 +1,16 @@
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+    Version="3.0.0.0"
+    Uri="https://raw.githubusercontent.com/Rakicc/Office_Tools_Latest_Version/refs/heads/main/Updates/TestUpdateWinUi3.appinstaller">
+    <MainBundle
+        Name="TestUpdateWinUi3"
+        Version="3.0.0.0"
+        Publisher="CN=YourPublisher"
+        Uri="https://raw.githubusercontent.com/Rakicc/Office_Tools_Latest_Version/refs/heads/main/Updates/TestUpdateWinUi3.msix" />
+    <UpdateSettings>
+        <OnLaunch
+            HoursBetweenUpdateChecks="0" />
+        <AutomaticBackgroundTask />
+        <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+    </UpdateSettings>
+</AppInstaller>
