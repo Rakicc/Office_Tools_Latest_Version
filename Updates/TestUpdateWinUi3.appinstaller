@@ -5,7 +5,7 @@
     <MainBundle
         Name="TestUpdateWinUi3"
         Version="3.0.0.0"
-        Publisher="CN=YourPublisher"
+        Publisher="Admin"
         Uri="https://raw.githubusercontent.com/Rakicc/Office_Tools_Latest_Version/refs/heads/main/Updates/TestUpdateWinUi3.msix" />
     <UpdateSettings>
         <OnLaunch
