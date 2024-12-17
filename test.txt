@@ -1,3 +1,0 @@
-
-    "download_link": "https://raw.githubusercontent.com/Rakicc/Office_Tools_Latest_Version/refs/heads/main/Office_Tools.msi"
-    "download_link": "https://github.com/Rakicc/Office_Tools_PyQt5/releases/download/Automate_Apps/Office_Tools_Setup_V_5.0.msi"
